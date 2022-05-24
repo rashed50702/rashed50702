@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me : 
 
-<img data-target="animated-image.replacedImage" alt="Hi.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="display: block; opacity: 1;"> I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. I am proficient with PHP, Laravel, JavaScript, TypeScript and VueJS.
+<img data-target="animated-image.replacedImage" alt="Hi.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="display: block; opacity: 1;"> I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. I am proficient with PHP, Laravel, JavaScript, TypeScript and VueJS. My personal profile website link: https://rashedulhasan.com
 
 ![](https://komarev.com/ghpvc/?username=rashed50702) 
 ---
