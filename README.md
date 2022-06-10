@@ -52,8 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashed50702)](https://github.com/rashed50702/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rashed50702&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&stroke=1BDD26)](https://git.io/streak-stats) ![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashed50702&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashed50702&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
