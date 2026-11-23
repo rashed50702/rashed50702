@@ -23,6 +23,10 @@
 <h2 align="center">GitHub Contributions</h2>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/39d353/rashed50702" alt="Contribution calendar" width="98%"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=rashed50702&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rashed50702&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
 </p>
@@ -34,10 +38,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed50702&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashed50702&theme=tokyonight&utcOffset=6" alt="Productive Time" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashed50702&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </p>
 
 <p align="center">
