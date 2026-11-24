@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  7+ years building multi-module business platforms with PHP, Laravel and Vue.js.<br/>
+  10+ years building multi-module business platforms with PHP, Laravel and Vue.js.<br/>
   Currently leading the Management Information System at Centre for Zakat Management.
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/rashed50702"><img src="https://streak-stats.demolab.com?user=rashed50702&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/></a>
-  <a href="https://github.com/rashed50702?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=rashed50702&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/></a>
+  <a href="https://github.com/rashed50702?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=rashed50702&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/></a>
 </p>
 
 <p align="center">
